@@ -1,25 +1,23 @@
 #### CS 110
-# Chapter 4 - Lab - Functions
-
-### [Assignment Description](https://docs.google.com/document/d/1V20D_upUX4MO8YmskKlRB25Yu2pCEv3-h8z4EAfrSno/edit?usp=sharing)
+# Midterm - Python Programming
 
 ***
 
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < The program draws sine, cosine and tangent curves. This program also adjusts the axis to make the curves more visible >
+What did you clean up?: I think the code was pretty clean before, but changed a few minor details to make it execute better 
 
-## GRACE DAYS
-Grace days used for this assignment: < 0 >
+Summary of function(s) added:
+Uses the division of sine/cosine to calculate the tangent at every point from -360 to 360 and graph it on the same graph.
 
-Grace days remaining: < 5 >/5
-
+Summary of Feature Added:
+Changes the color of the new tangent calculated graph from green to blue and rotates graphing the tangent graph while also regraphing the sine and cosine graphs in small incraments. The icon will quickly rotate between each function.
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < N/A >
+ N/A
 
 ## REFERENCES:
- < [List any outside resources used ](https://docs.python.org/3.8/library/turtle.html#turtle.setworldcoordinates)>
+ N/A
 
 ## MISCELLANEOUS COMMENTS:
- <N/A >
+ N/A
